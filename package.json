@@ -1,0 +1,14 @@
+{
+  "name": "Wa-Bot-By-ArkEditzz",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp bot using Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "pino": "^8.0.0",
+    "fs-extra": "^11.0.0"
+  }
+}
